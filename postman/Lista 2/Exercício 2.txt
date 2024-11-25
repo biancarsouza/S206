@@ -1,0 +1,5 @@
+1. Manuais.
+
+2. Não.
+
+3. Automação dos testes, configuração dos dados de testes, integração com o CI/CD, relatórios automatizados, estruturação dos testes, garantir idempotência e monitoramento de ambiente.
