@@ -25,7 +25,7 @@ cd S206
 #### 2. Importe os arquivos no Postman
 - Abra o Postman.
 - Vá até File > Import (ou clique em Import no canto superior esquerdo).
-- Selecione o arquivo da coleção (JSONPlaceholder_Collection.json) e o arquivo do ambiente (JSONPlaceholder_Environment.json).
+- Selecione o arquivo da coleção (Lista 2.postman_collection.json) e o arquivo do ambiente (Lista 2.postman_environment.json).
 - Confirme a importação.
 
 
@@ -49,8 +49,8 @@ A coleção utiliza variáveis de ambiente para facilitar a manutenção e a exe
 
 ### Como executar os testes
 
-- No Postman, certifique-se de que o ambiente JSONPlaceholder Environment está ativo.
-- Abra a coleção JSONPlaceholder Tests.
+- No Postman, certifique-se de que o ambiente Lista 2 está ativo.
+- Abra a coleção Lista 2.
 - Execute os testes manualmente ou utilize a funcionalidade de Runner para executar todos os testes de uma vez.
 
 
